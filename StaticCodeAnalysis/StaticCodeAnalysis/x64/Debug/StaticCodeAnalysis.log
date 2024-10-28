@@ -1,0 +1,7 @@
+﻿  StaticCodeAnalysis.cpp
+D:\SNHU\Classes\CS 405 Secure Coding\ModuleFive\StaticCodeAnalysis\StaticCodeAnalysis\StaticCodeAnalysis.cpp(52,9): warning C4297: 'MySpecialType::DontThrow': function assumed not to throw an exception but does
+      D:\SNHU\Classes\CS 405 Secure Coding\ModuleFive\StaticCodeAnalysis\StaticCodeAnalysis\StaticCodeAnalysis.cpp(52,9):
+      __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+D:\SNHU\Classes\CS 405 Secure Coding\ModuleFive\StaticCodeAnalysis\StaticCodeAnalysis\StaticCodeAnalysis.cpp(129,5): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  StaticCodeAnalysis.vcxproj -> D:\SNHU\Classes\CS 405 Secure Coding\ModuleFive\StaticCodeAnalysis\x64\Debug\StaticCodeAnalysis.exe
